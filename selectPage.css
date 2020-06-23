@@ -1,0 +1,25 @@
+body{
+  background-color: #545d5c;
+}
+
+#title{
+  position: relative;
+  transform: rotate(-90deg);
+  color: white;
+  font-size: 300%;
+  top: -20%;
+  left: -43%;
+}
+
+#box{
+  height: 90%;
+  width: 80%;
+  background-color: white;
+  position: fixed;
+  left: 10%;
+  top: 5%;
+}
+
+input{
+  color: green;
+}
